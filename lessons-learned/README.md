@@ -63,5 +63,6 @@ To - 'i will start and figure things out as i go', 'Errors are learning opportun
 2. Metagenomics with nf-core/mag
 3. Contribution to bioinformatics documentation
 4. Helping other beginners on this path
-The journey continues......ALUTA CONTINUA !!!!
+
+# The journey continues......ALUTA CONTINUA !!!!
 
